@@ -4,7 +4,7 @@
 
 This practice lesson will help you understand the concepts surrounding Callback Functions.
 
-Flatiron Movie Theater wants to use callback functions to optimize the code for their website, Flatdango, that allows its users to view movie details for a movie that they want to see at the Flatiron Movie Theater.
+Flatiron Movie Theater wants to use callback functions to optimize the code for their website, Flatdango, that allows its users to view movie details for movies that they want to see at the Flatiron Movie Theater.
 
 ## Tools and Resources
 
